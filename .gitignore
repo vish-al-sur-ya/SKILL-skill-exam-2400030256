@@ -1,8 +1,0 @@
-.metadata/
-**/target/
-**/node_modules/
-**/.idea/
-**/.vscode/
-**/.env
-**/.env.*
-!**/.env.example
